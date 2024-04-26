@@ -1,0 +1,7 @@
+Test
+något annat
+mitt i Test en längre text
+två Test på samma testrad
+upprepat TestTest utan mellanslag
+test med stor bokstav
+totalt 5 träffar
