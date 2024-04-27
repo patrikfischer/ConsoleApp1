@@ -26,7 +26,7 @@
             } 
             catch (ValidationException ve) 
             {
-                Console.WriteLine($"Validation error: {ve.Message}", ve.InnerException); 
+                Console.WriteLine($"Validation error: {ve.Message}"); 
             }
             catch (Exception e) 
             {
