@@ -17,3 +17,6 @@ Main program in ConsoleApp1 project
 
 Unit tests in ConsoleApp1Tests project (NUnit)
 	UnitTests.cs tests a couble of files and scenarios
+
+I added a max filesize of 10MB just for not needing such a big file for testing.
+This can easily by changed in FileUtil.cs if you want to test a bigger file.
